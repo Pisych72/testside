@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a61fc600-ae6b-4e07-b397-072894a70734" name="Default Changelist" comment="" />
+    <list default="true" id="a61fc600-ae6b-4e07-b397-072894a70734" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,6 +53,14 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1670576517304" />
+    <state x="809" y="385" key="Github.ShareDialog" timestamp="1671163508227">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="809" y="385" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1671163508227" />
+    <state x="655" y="145" key="Github.UntrackedFilesDialog" timestamp="1671163527509">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="655" y="145" key="Github.UntrackedFilesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1671163527509" />
     <state x="343" y="56" key="SettingsEditor" timestamp="1670984544575">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
