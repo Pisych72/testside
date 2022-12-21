@@ -1,6 +1,7 @@
 from django.shortcuts import render,get_list_or_404
 from django.shortcuts import HttpResponse
 from .models import *
+from .forms import NewsForm
 # Create your views here.
 def index(request):
 
@@ -21,3 +22,10 @@ def view_news(request,news_id):
    # news_item=news.objects.get(pk=news_id)
     news_item=get_list_or_404(news,pk=news_id)
     return render(request,'news/view_news.html',{'news_item':news_item})
+
+def add_news(request):
+    if request.method=='POST':
+        pass
+    else:
+        form=NewsForm()
+    return render(request,'news/add_news.html',{'form': form} )
