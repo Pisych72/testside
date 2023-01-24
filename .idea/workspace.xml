@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a61fc600-ae6b-4e07-b397-072894a70734" name="Default Changelist" comment="Forms. Begin.">
+    <list default="true" id="a61fc600-ae6b-4e07-b397-072894a70734" name="Default Changelist" comment="Forms. Несвязаные с моделями формы">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/news/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/news/templates/news/add_news.html" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/templates/news/add_news.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/news/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/news/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671607075212</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Forms. Несвязаные с моделями формы">
+      <created>1674457727750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674457727750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +126,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Static added!" />
     <MESSAGE value="Forms. Begin." />
-    <option name="LAST_COMMIT_MESSAGE" value="Forms. Begin." />
+    <MESSAGE value="Forms. Несвязаные с моделями формы" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forms. Несвязаные с моделями формы" />
   </component>
   <component name="WindowStateProjectService">
     <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1670576517304">
@@ -139,9 +146,20 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="343" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1670984544575" />
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1671607082908">
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2" timestamp="1674457741015">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1671607082908" />
+    <state x="451" y="181" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1674457741015" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mysite/news/forms.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
